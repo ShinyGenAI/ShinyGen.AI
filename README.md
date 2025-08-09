@@ -1,5 +1,7 @@
 # ShinyGen.AI
 
+![shiny gen ai logo](https://github.com/ShinyGenAI/ShinyGen.AI/blob/main/shiny_gen_ai_with_background.png?raw=true)
+
 Games and Animations with AI
 
 - [ShinyGen.AI](https://ShinyGen.AI)
