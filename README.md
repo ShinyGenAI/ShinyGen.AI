@@ -1,4 +1,4 @@
-# ShinyGen.AI
+# ShinyGen.AI (Coming Soon)
 
 ![shiny gen ai logo](https://github.com/ShinyGenAI/ShinyGen.AI/blob/main/shiny_gen_ai_with_background.png?raw=true)
 
