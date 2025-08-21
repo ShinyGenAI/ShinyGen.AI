@@ -21,13 +21,13 @@ Shiny Gen AI is a revolutionary game creation platform leverages generative AI t
 6. **Test and Iterate**: Preview your creation and make adjustments
 7. **Share or Export**: Share your project or entities with shareable links
 
-### Download
-- [Linux](link)
-- [Steamdeck](link)
-- [MacOS](link)
-- [Windows](link)  
-- [iOS](link)
-- [Android](link)
+### Download (Coming soon)
+- Linux
+- Steamdeck
+- MacOS
+- Windows  
+- iOS
+- Android
 
 ## Core Features
 
